@@ -11,6 +11,8 @@ NetGraph.py        randomly generate an activity network with given number of no
 
 SimulateArcs.py    simulate activities durations in a given network with given distribution functions of activity durations.
 
+DstFunDerivatives.py calculate the gradient of different distribution functions with respect to different parameters.
+
 CoreEst.py         calculate different gradient estimators in AN using Monte Carlo simulation.
 
 dEY1st.py          calculate different gradient estimators for the first moment of PCT.
